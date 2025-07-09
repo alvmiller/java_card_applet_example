@@ -1,0 +1,16 @@
+/*
+https://www.oracle.com/java/technologies/java-card/javacard-applet.html
+https://www.oracle.com/java/technologies/java-card/developing-javacard-applet.html
+https://people.dsv.su.se/~jary4935/abtpd/walletappletcode.html
+https://github.com/crocs-muni/javacard-curated-list
+https://www.infoworld.com/article/2165789/how-to-write-opencard-card-services-for-java-card-applets.html
+https://netbeans.apache.org/tutorial/main/kb/docs/javame/javacard/
+https://github.com/crocs-muni/SPA-JavaCard-Applet
+https://www.infoworld.com/article/2164943/understanding-java-card-2-0.html
+https://crocs.fi.muni.cz/public/research/smartcard/javacardcompilation
+https://netbeans.apache.org/tutorial/main/kb/docs/mobility/
+https://github.com/martinpaljak/ant-javacard
+https://www3.ntu.edu.sg/home/ehchua/programming/java/J4c_AppletWebstart.html
+https://netbeans.apache.org/tutorial/main/kb/docs/web/applets/
+https://www.webswing.org/docs/20.1/configure/swing.html
+*/
